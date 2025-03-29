@@ -41,7 +41,7 @@
       ]
     },
     {
-      "path": "obsidion笔记语法.md",
+      "path": "生产力配置/obsidian/obsidion笔记语法.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -189,6 +189,16 @@
         },
         {
           "timestampMillis": 1743240981239
+        }
+      ]
+    },
+    {
+      "path": "网络安全思维导图.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1743241551980
         }
       ]
     }
