@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "path": "编程知识/前端/浏览器/浏览器缓存.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1742658586859
+        }
+      ]
+    },
+    {
+      "path": "编程知识/前端/监控/前端性能监控.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1742658648387
+        }
+      ]
+    },
+    {
+      "path": "编程知识/前端/js/前端权限开发——设计到实践.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1742658650745
+        }
+      ]
+    },
+    {
+      "path": "编程知识/前端/规范/如何带领团队从零到一建立前端规范.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1742658651136
+        }
+      ]
+    },
+    {
+      "path": "obsidion笔记语法.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1742658689159
+        }
+      ]
+    },
+    {
+      "path": "编程知识/前端/埋点/前端埋点.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1742659151586
+        },
+        {
+          "timestampMillis": 1742659159684
+        },
+        {
+          "timestampMillis": 1742659196038
+        },
+        {
+          "timestampMillis": 1743239717666
+        },
+        {
+          "timestampMillis": 1743239728525
+        },
+        {
+          "timestampMillis": 1743240037933
+        },
+        {
+          "timestampMillis": 1743240078225
+        },
+        {
+          "timestampMillis": 1743240115664
+        }
+      ]
+    },
+    {
+      "path": "生产力配置/图床设置.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240119721
+        },
+        {
+          "timestampMillis": 1743240135829
+        },
+        {
+          "timestampMillis": 1743240345355
+        }
+      ]
+    },
+    {
+      "path": "编程知识/通用/算法/树的遍历.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240415470
+        },
+        {
+          "timestampMillis": 1743240441459
+        }
+      ]
+    },
+    {
+      "path": "编程知识/通用/算法/排序算法.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240455459
+        }
+      ]
+    },
+    {
+      "path": "生产力配置/关于 IDM 激活.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240482860
+        },
+        {
+          "timestampMillis": 1743240494902
+        }
+      ]
+    },
+    {
+      "path": "编程知识/通用/服务器/腾讯云服务器使用指南.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240546281
+        },
+        {
+          "timestampMillis": 1743240598531
+        }
+      ]
+    },
+    {
+      "path": "编程知识/前端/js/从理解到实现路由.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240684075
+        }
+      ]
+    },
+    {
+      "path": "编程知识/后端/数据脱敏方案.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240780740
+        },
+        {
+          "timestampMillis": 1743240844596
+        }
+      ]
+    },
+    {
+      "path": "编程知识/通用/通信/Base 64 编码.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240930902
+        }
+      ]
+    },
+    {
+      "path": "编程知识/运维/Hexo 建站流程.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1743240967023
+        },
+        {
+          "timestampMillis": 1743240981239
+        }
+      ]
+    }
+  ]
+}
